@@ -18,3 +18,31 @@
 #   print("yes")
 # else:
 #   print("no")
+# Ankieta
+# a = int(input())
+# b = int(input())
+# if a > b:
+#   print("tak")
+# else:
+#   print("nie")
+#Zad 5
+# a, b, c, = int(input()), int(input()), int(input())
+# if a < c < b or b > c > a:
+#   print("tak")
+# else:
+#   print("nie")
+# p = int(input())
+# a = int(input())
+
+# if (a**p - a) % p == 0:
+#   print("tak")
+# else:
+#   print("nie")
+# Zad 7
+# p = int(input())
+# k = int(input())
+# s = int(input())
+# if p +3*s >= k:
+#   print("tak")
+# else:
+#   print("nie")
